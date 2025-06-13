@@ -1,4 +1,4 @@
-#About
+# About
 
 This application benchmarks 5 different sorting algorithms for time complexity.
 
@@ -11,7 +11,7 @@ Random arrays of increasing sizes are generated, and a copy of each array is pas
 
 The execution time is recorded in a DataRecords record class, and a summary of results are printed to the console
 
-#Instructions
+# Instructions
 Requires java installation. To execute:
   1. Compile  all .java files in src folder
   2. Execute Runner class
